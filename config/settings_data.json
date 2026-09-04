@@ -380,13 +380,6 @@
               "menu": ""
             }
           },
-          "29b6ff39-5293-4635-a65f-836929e8f694": {
-            "type": "social_media",
-            "settings": {
-              "title": "Redes Sociais",
-              "content": ""
-            }
-          },
           "4d4f2dc9-cdca-48d2-b191-7ad758344dc6": {
             "type": "Pagamento-Seguranca",
             "settings": {}
@@ -396,7 +389,6 @@
           "37a4a494-9f3c-439b-88be-94f3f11e4077",
           "links_cEmrEt",
           "c481ffca-02fc-4105-b955-96dd22c8b41c",
-          "29b6ff39-5293-4635-a65f-836929e8f694",
           "4d4f2dc9-cdca-48d2-b191-7ad758344dc6"
         ],
         "settings": {
