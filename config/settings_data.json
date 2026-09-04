@@ -242,7 +242,7 @@
           "message-1": {
             "type": "message",
             "settings": {
-              "text": "Cupom especial PRIMEIRACOMPRA",
+              "text": "10% OFF YOUR FIRST ORDER",
               "learn_more_text": "",
               "title": "",
               "content": "",
@@ -253,7 +253,7 @@
           "e7d0cbfa-0065-4df2-8b2f-402e8e07e45e": {
             "type": "message",
             "settings": {
-              "text": "Frete GRÁTIS para todo BRASIL",
+              "text": "Use code WELCOME10 at checkout.",
               "learn_more_text": "",
               "title": "",
               "content": "",
