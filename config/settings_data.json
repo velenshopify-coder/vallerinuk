@@ -75,7 +75,9 @@
     "show_elo_fv": true,
     "show_discover_fv": true,
     "show_boleto_fv": false,
-    "reclameaqui": true,
+    "show_pix_fv": false,
+    "show_lojaverificada": false,
+    "reclameaqui": false,
     "norton": false,
     "radius-social": 4,
     "margind-social": 2,
@@ -357,7 +359,7 @@
               "horario_loja": "seg. à sáb. 08 às 19h",
               "email_loja": "sac@usevellen.com",
               "contato_loja": "",
-              "botaowhats_rodape": true,
+              "botaowhats_rodape": false,
               "num_whats": "21996174422"
             }
           },
