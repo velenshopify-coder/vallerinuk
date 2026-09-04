@@ -142,7 +142,7 @@
           "settings": {
             "collection": "watches",
             "label": "",
-            "button_text": "Ver mais",
+            "button_text": "VIEW COLLECTION",
             "button_url": ""
           }
         },
@@ -211,7 +211,7 @@
           "settings": {
             "collection": "best-sellers",
             "label": "",
-            "button_text": "Ver todos",
+            "button_text": "",
             "button_url": ""
           }
         }
@@ -281,7 +281,7 @@
           "settings": {
             "collection": "glasses",
             "label": "",
-            "button_text": "Ver todas",
+            "button_text": "VIEW COLLECTION",
             "button_url": ""
           }
         },
@@ -290,7 +290,7 @@
           "settings": {
             "collection": "bracelets",
             "label": "",
-            "button_text": "Ver todas",
+            "button_text": "VIEW COLLECTION",
             "button_url": ""
           }
         }
