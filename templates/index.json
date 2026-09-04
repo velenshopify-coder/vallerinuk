@@ -279,7 +279,7 @@
         "6be19115-feeb-43db-a349-3e41d31b786e": {
           "type": "collection",
           "settings": {
-            "collection": "oculos",
+            "collection": "glasses",
             "label": "",
             "button_text": "Ver todas",
             "button_url": ""
@@ -288,7 +288,7 @@
         "a8be19cf-9134-40bb-bcc7-5767bd63d585": {
           "type": "collection",
           "settings": {
-            "collection": "pulseiras",
+            "collection": "bracelets",
             "label": "",
             "button_text": "Ver todas",
             "button_url": ""
