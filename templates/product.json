@@ -142,14 +142,14 @@
           "type": "trust",
           "settings": {
             "icon_1": "picto-delivery-truck",
-            "title_1": "Rastreio",
-            "content_1": "<p>Você receberá automaticamente um código de rastreio para acompanhar todo o status do seu pedido. </p>",
-            "icon_2": "picto-credit-card",
-            "title_2": "Prioridade",
-            "content_2": "<p>Pedidos realizados no cartão de crédito são processados e enviados mais rapidamente. </p>",
+            "title_1": "Tracking",
+            "content_1": "<p><br/>You will automatically receive a tracking number so you can follow your order every step of the way.<br/><br/></p>",
+            "icon_2": "picto-secure-payment",
+            "title_2": "Secure Payments",
+            "content_2": "<p><br/>Secure payments, reliable delivery and dedicated customer care.<br/><br/></p>",
             "icon_3": "picto-customer-support",
-            "title_3": "Suporte Profissional",
-            "content_3": "<p>Contamos com uma equipe de suporte especializada, pronta para resolver todos os seus problemas e tirar suas dúvidas. </p>"
+            "title_3": "Expert Customer Care",
+            "content_3": "<p>Our dedicated team is here to answer your questions and provide assistance whenever you need it.</p>"
           }
         }
       },
@@ -166,22 +166,22 @@
         "template--17030236995879__0156e20f-57ea-4f6a-99a4-6f9d637da63a-1671630868244ee449-1": {
           "type": "question",
           "settings": {
-            "title": "Quanto tempo demora para chegar?",
-            "answer": "<p>Por se tratar de produtos tão exclusivos e raros no Brasil, nós os importamos de fora do país. O prazo de entrega estimado pode variar entre <strong>5 até 10 dias úteis</strong>, dependendo de sua localização. Todos os pedidos possuem link de rastreio para você acompanhar a entrega até o seu endereço. O Código de rastreio será enviado diretamente para o e-mail cadastrado em até 48 horas.<br/><br/></p>"
+            "title": "How long does delivery take?",
+            "answer": "<p>As these products are so exclusive and rare in the United Kingdom, we import them from abroad. The estimated delivery time ranges from 5 to 10 business days, depending on your location. All orders include a tracking link so you can monitor the delivery to your address. The tracking code will be sent directly to your registered email address within 48 hours.</p>"
           }
         },
         "template--17030236995879__0156e20f-57ea-4f6a-99a4-6f9d637da63a-1671630868244ee449-2": {
           "type": "question",
           "settings": {
-            "title": "Tem garantia?",
-            "answer": "<p>1. A Vellen oferece garantia de <strong>12 meses </strong>após a data do recebimento, para todas as peças compradas em nosso site, de acordo com as regras. Leia mais em Garantia</p><p>2. Nós da Vellen prezamos pela qualidade e excelência do seu produto por isso pedimos para que todo defeito seja notificado através do nosso WhatsApp ou e-mail (dentro da garantia) para que façamos a troca ou reparo do seu produto.</p><p>3. Todo o reembolso possui a confirmação do Mercado Pago onde o cliente recebe sua via. Quando a compra for feita pelo cartão: o reembolso é feito pelo próprio cartão. Se a compra for feita por pix, entre em contato no Whatsapp ou email.</p>"
+            "title": "Do you offer a warranty?",
+            "answer": "<p>1. Vellerin offers a 12-month warranty from the date of receipt for all items purchased on our website, subject to applicable terms. Read more under Warranty.<br/><br/>2. At Vellerin, we value product quality and excellence; therefore, we ask that you notify us via email regarding any defects (within the warranty period) so that we can arrange for an exchange or repair.</p>"
           }
         },
         "template--17030236995879__0156e20f-57ea-4f6a-99a4-6f9d637da63a-1671630868244ee449-4": {
           "type": "question",
           "settings": {
-            "title": "O site é seguro?",
-            "answer": "<p>Nosso site é 100% confiável. O sistema de pagamento é realizado através do Mercado Pago protegendo suas informações. Os pagamentos realizados por cartão de crédito passam por uma análise antifraude protegendo nossa loja e você, consumidor.<br/><br/></p>"
+            "title": "Is your website secure?",
+            "answer": "<p>Your security is our priority. All payments are processed securely through our trusted payment provider, keeping your personal and payment information protected. Card payments are subject to security and fraud-prevention checks for your peace of mind.<br/><br/></p>"
           }
         }
       },
@@ -192,7 +192,7 @@
       ],
       "settings": {
         "show_navigation": false,
-        "title": "PERGUNTAS FREQUENTES",
+        "title": "FREQUENTLY ASKED QUESTIONS",
         "content": "",
         "background": "#f5f5f5",
         "text_color": "rgba(0,0,0,0)"
@@ -209,7 +209,7 @@
       "type": "product-recommendations",
       "settings": {
         "subheading": "",
-        "title": "Você também vai gostar",
+        "title": "You might also like",
         "recommendations_count": 6,
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
@@ -219,7 +219,7 @@
       "type": "recently-viewed-products",
       "settings": {
         "subheading": "",
-        "title": "Vistos Recentemente",
+        "title": "Recently Viewed",
         "products_count": 4,
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
