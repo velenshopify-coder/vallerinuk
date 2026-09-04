@@ -300,7 +300,7 @@
         "a8be19cf-9134-40bb-bcc7-5767bd63d585"
       ],
       "settings": {
-        "title": "Complete seu Visual",
+        "title": "Complete Your Look",
         "content": "",
         "products_count": 5,
         "products_per_row": 5,
@@ -489,8 +489,8 @@
           "type": "item",
           "settings": {
             "tab_label": "Item",
-            "title": "Sobre a VELLEN",
-            "content": "<p>A <strong>VELLEN</strong> é mais do que uma marca, é um estilo de vida para homens que buscam sofisticação, elegância e exclusividade. Cada peça é cuidadosamente selecionada para transmitir luxo e autenticidade, proporcionando uma experiência única para aqueles que valorizam o requinte em cada detalhe.</p><p>Descubra o luxo. Viva VELLEN.</p>",
+            "title": "About VELLERIN",
+            "content": "<p>VELLERIN is more than a brand; it is a lifestyle for men who seek sophistication, elegance, and exclusivity. Each piece is carefully selected to convey luxury and authenticity, offering a unique experience for those who value refinement in every detail. Discover luxury. Live VELLERIN.</p>",
             "button_text": "",
             "button_link": ""
           }
@@ -731,7 +731,7 @@
         "93a10c1c-3048-4d24-9991-4e0f3299314c"
       ],
       "settings": {
-        "title": "Acompanhe nossa loja no Instagram",
+        "title": "Follow our store on Instagram",
         "titulo_celular": 16,
         "titulo_desk": 20,
         "tamanho_icon_mobile": 22,

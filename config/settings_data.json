@@ -360,8 +360,8 @@
           "37a4a494-9f3c-439b-88be-94f3f11e4077": {
             "type": "Atendimento-Vision",
             "settings": {
-              "atendimento_vision": "Central de Atendimento",
-              "horario_loja": "seg. à sáb. 08 às 19h",
+              "atendimento_vision": "Customer Care",
+              "horario_loja": "Monday to Saturday, 8am-7pm",
               "email_loja": "sac@usevellen.com",
               "contato_loja": "",
               "botaowhats_rodape": false,
