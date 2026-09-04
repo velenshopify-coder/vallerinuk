@@ -190,7 +190,7 @@ a.product-item-meta__title {
               <span class="visually-hidden">{{ 'product.general.sale_price' | t }}</span>
 
               {%- if settings.currency_code_enabled -%}
-                {{- product.price | money_with_currency -}}
+               
               {%- else -%}
                 {{- product.price | money -}}
               {%- endif -%}
