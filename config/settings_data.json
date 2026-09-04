@@ -335,7 +335,8 @@
         ],
         "settings": {
           "enable_sticky_header": false,
-          "logo_max_width": 220,
+          "logo": "shopify://shop_images/Vellerin_Logo_61ff2312-b6b7-4035-a2f9-68c13c416b4d.jpg",
+          "logo_max_width": 300,
           "mobile_logo_max_width": 140,
           "navigation_menu": "main-menu",
           "sidebar_navigation_menu": "",
