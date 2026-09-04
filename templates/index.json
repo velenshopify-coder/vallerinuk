@@ -209,7 +209,7 @@
         "template--14518027550833__f03689a1-a342-4154-a5fc-376e90c0838c-1666202443f5a6bbde-0": {
           "type": "collection",
           "settings": {
-            "collection": "kits-promocionais",
+            "collection": "best-sellers",
             "label": "",
             "button_text": "Ver todos",
             "button_url": ""
@@ -220,7 +220,7 @@
         "template--14518027550833__f03689a1-a342-4154-a5fc-376e90c0838c-1666202443f5a6bbde-0"
       ],
       "settings": {
-        "title": "Kits mais vendidos",
+        "title": "Best Sellers",
         "content": "",
         "products_count": 10,
         "products_per_row": 4,
@@ -240,8 +240,8 @@
           "settings": {
             "icon": "picto-fast-delivery",
             "custom_icon_width": 50,
-            "title": "Frete Grátis",
-            "content": "<p>Entrega gratuita para todo Brasil.</p>"
+            "title": "Free shiping",
+            "content": "<p>We offer free shipping on the purchase of any product.</p>"
           }
         },
         "item-4": {
@@ -249,8 +249,8 @@
           "settings": {
             "icon": "picto-customer-support",
             "custom_icon_width": 50,
-            "title": "Suporte ao Cliente",
-            "content": "<p>Eficiência e confiabilidade garantidas.</p>"
+            "title": "Customer Support",
+            "content": "<p>Efficiency and reliability guaranteed.</p>"
           }
         },
         "item-2": {
@@ -258,25 +258,15 @@
           "settings": {
             "icon": "picto-return-box",
             "custom_icon_width": 50,
-            "title": "SATISFAÇÃO OU REEMBOLSO",
-            "content": "<p>Caso haja algum problema, devolvemos seu dinheiro</p>"
-          }
-        },
-        "item-3": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-warranty",
-            "custom_icon_width": 60,
-            "title": "Compra Segura",
-            "content": "<p>Ambiente 100% seguro</p>"
+            "title": "SATISFACTION OR REFUND",
+            "content": "<p>If there is any problem, we will refund your money.</p>"
           }
         }
       },
       "block_order": [
         "item-1",
         "item-4",
-        "item-2",
-        "item-3"
+        "item-2"
       ],
       "settings": {
         "background": "#f9f9f9",
