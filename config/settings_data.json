@@ -335,7 +335,7 @@
           "enable_sticky_header": false,
           "logo_max_width": 220,
           "mobile_logo_max_width": 140,
-          "navigation_menu": "",
+          "navigation_menu": "main-menu",
           "sidebar_navigation_menu": "",
           "header_layout": "logo_center_search_open",
           "show_icons": true,
