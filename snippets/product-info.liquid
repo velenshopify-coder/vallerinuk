@@ -422,13 +422,7 @@
    <span style="margin-top: -5px; margin-bottom: 5px;"><div style="font-weight: 700; font-size: 14px;color:var(--box-titulo)">{{ section.settings.box3p_line1 }}</div><div style="font-size: 12px; line-height: 10px; color: var(--box-sec);">{{ section.settings.box3p_line2 }}</div><div style="font-size: 12px; color: var(--box-sec);">{{ section.settings.box3p_line3 }}</div>    </span>
  </div>
 {%- endif -%}
-
-{%- if section.settings.show_buscacep -%}
-  
-      {% render 'visionfrete.liquid' %}  
-   
-       {%- endif -%}
-       
+     
   {%- assign help_page = section.settings.help_page -%}
 
   {%- if section.settings.show_share_buttons or help_page != blank -%}
