@@ -32,11 +32,13 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Banner_01_desktop.png",
+            "mobile_image": "shopify://shop_images/Banner_01_dmobile.png",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
             "button_1_text": "",
-            "button_1_link": "shopify://collections/kits-promocionais",
+            "button_1_link": "shopify://collections/watches",
             "button_2_text": "",
             "button_2_link": "",
             "text_color": "#ffffff",
