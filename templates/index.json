@@ -15,6 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Banner_02_desktop.png",
+            "mobile_image": "shopify://shop_images/Banner_02_mobile.png",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
@@ -490,6 +492,7 @@
         "template--17030236766503__a4ec1cd3-5453-4173-9ff3-25d5710d23c6-167051137768d5d568-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_8_de_set._de_2026_14_37_28.png",
             "tab_label": "Item",
             "title": "About VELLERIN",
             "content": "<p>VELLERIN is more than a brand; it is a lifestyle for men who seek sophistication, elegance, and exclusivity. Each piece is carefully selected to convey luxury and authenticity, offering a unique experience for those who value refinement in every detail. Discover luxury. Live VELLERIN.</p>",
@@ -738,7 +741,7 @@
         "titulo_desk": 20,
         "tamanho_icon_mobile": 22,
         "tamanho_icon_desktop": 24,
-        "meuarroba": "@vellen_oficial",
+        "meuarroba": "@vellerin.uk",
         "show_curtir": true,
         "show_arrows": true,
         "background": "rgba(0,0,0,0)",
