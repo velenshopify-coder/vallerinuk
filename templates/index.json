@@ -659,35 +659,40 @@
         "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-0": {
           "type": "image",
           "settings": {
-            "caption": "<p>Tempo, estilo e sofisticação. ⏳✨<br/><br/>Cada detalhe conta quando o assunto é elegância. A VELLEN traz a essência do homem moderno: precisão, classe e atitude.</p>",
+            "image": "shopify://shop_images/04_1.png",
+            "caption": "<p>Time, style and sophistication. ⏳✨</p><p>Every detail matters when it comes to refined elegance. Vellerin embodies the modern gentleman with precision, confidence and impeccable style.</p>",
             "captionhashtag": ""
           }
         },
         "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-1": {
           "type": "image",
           "settings": {
-            "caption": "<p>Estilo, poder e liberdade.<br/><br/>O luxo está nos detalhes, e a VELLEN acompanha você em cada jornada.</p>",
+            "image": "shopify://shop_images/02.png",
+            "caption": "<p>Style, power and freedom.</p><p>Luxury lies in the details, and Vellerin is made to accompany you on every journey.</p>",
             "captionhashtag": ""
           }
         },
         "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-2": {
           "type": "image",
           "settings": {
-            "caption": "<p>“O tempo é um luxo para quem sabe aproveitá-lo. ⏳✨<br/><br/>Dois ícones da relojoaria que combinam tradição, precisão e estilo atemporal. Qual combina mais com você?</p>",
+            "image": "shopify://shop_images/05.png",
+            "caption": "<p>Time is a luxury for those who know how to make every moment count. ⏳✨</p><p>Two icons of watchmaking, bringing together heritage, precision and refined style. Which one is made for you?</p>",
             "captionhashtag": ""
           }
         },
         "ccbfc1d7-c63e-43f9-9db4-2f06b657d2c8": {
           "type": "image",
           "settings": {
-            "caption": "<p>Confiança, poder e sofisticação.<br/><br/>O homem elegante se destaca nos detalhes. Vista-se para impressionar.</p>",
+            "image": "shopify://shop_images/03.png",
+            "caption": "<p>Confidence, power and sophistication.</p><p>A refined man stands out through the details. Dress with purpose. Make an impression.</p>",
             "captionhashtag": ""
           }
         },
         "cd6ec7c0-a75f-4ef0-a547-40bcf78bf4dc": {
           "type": "image",
           "settings": {
-            "caption": "<p>Precisão, estilo e sofisticação. ⏳✨<br/><br/>O tempo está em suas mãos e a elegância também.</p>",
+            "image": "shopify://shop_images/05.png",
+            "caption": "<p>Precision, style and sophistication. ⏳✨</p><p>Time is in your hands, and so is refined elegance.</p>",
             "captionhashtag": ""
           }
         },
