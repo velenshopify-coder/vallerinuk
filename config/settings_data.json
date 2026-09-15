@@ -361,7 +361,7 @@
             "type": "Atendimento-Vision",
             "settings": {
               "atendimento_vision": "Customer Care",
-              "horario_loja": "Monday to Saturday, 8am-7pm",
+              "horario_loja": "Monday to Friday, 9am-6pm",
               "email_loja": "contact@vellerin.com",
               "contato_loja": "",
               "botaowhats_rodape": false,
