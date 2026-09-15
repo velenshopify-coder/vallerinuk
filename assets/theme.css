@@ -12202,3 +12202,18 @@ button.gallery__arrow.prev-next-button.prev-next-button--next{
 }
 
 }
+.product-item__swatch-list {
+    position: static !important;
+    display: block !important;
+    width: 100% !important;
+    margin-top: 6px !important;
+    margin-bottom: 4px !important;
+    clear: both !important;
+}
+
+.product-item__swatch-list .color-swatch-list {
+    display: flex !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    gap: 4px !important;
+}
