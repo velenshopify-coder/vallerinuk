@@ -207,7 +207,7 @@
     "bandeiras_w_mobilec": 14,
     "bandeiras_w_desktopc": 14,
     "cart_icon": "shopping_bag",
-    "cart_show_free_shipping_threshold": true,
+    "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": "0",
     "social_facebook": "https://web.facebook.com/profile.php?id=100091667000664",
     "social_twitter": "",
