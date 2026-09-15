@@ -9729,7 +9729,7 @@ button.gallery__arrow.prev-next-button.prev-next-button--prev, button.gallery__a
 }
 
 .product-item-meta__swatch-list {
-    margin-top: -24px;
+    margin-top: -6px;
     margin-bottom: 2px;
     justify-content: center;
     gap: 6px;
