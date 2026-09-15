@@ -12202,24 +12202,3 @@ button.gallery__arrow.prev-next-button.prev-next-button--next{
 }
 
 }
-.product-item__swatch-list {
-    position: static !important;
-    display: block !important;
-    width: 100% !important;
-    height: auto !important;
-    margin-top: 7px !important;
-    margin-bottom: 5px !important;
-    clear: both !important;
-}
-
-.product-item__swatch-list .color-swatch-list {
-    position: static !important;
-    display: flex !important;
-    align-items: center !important;
-    gap: 5px !important;
-    flex-wrap: wrap !important;
-}
-
-.product-item__swatch-list .color-swatch {
-    position: static !important;
-}
