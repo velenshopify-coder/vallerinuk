@@ -431,7 +431,7 @@
           "show_checkout_button": true,
           "empty_button_link": "shopify://collections/all",
           "show_recommendations": true,
-          "recommendations_title": "Você vai adorar! Produtos que pode gostar."
+          "recommendations_title": "You're going to love it! Products you might like."
         }
       },
       "static-text-with-icons": {
