@@ -150,19 +150,19 @@
             "button_url": ""
           }
         },
-        "collection_gyeDVL": {
+        "collection_YXTekB": {
           "type": "collection",
           "settings": {
-            "collection": "casio",
+            "collection": "omega",
             "label": "",
             "button_text": "",
             "button_url": ""
           }
         },
-        "collection_YXTekB": {
+        "collection_gyeDVL": {
           "type": "collection",
           "settings": {
-            "collection": "omega",
+            "collection": "casio",
             "label": "",
             "button_text": "",
             "button_url": ""
@@ -189,8 +189,8 @@
       },
       "block_order": [
         "template--17030236766503__4b6d90fe-3a65-4df4-a75c-5974a4f6dee7-16767564983894c069-0",
-        "collection_gyeDVL",
         "collection_YXTekB",
+        "collection_gyeDVL",
         "collection_MhBazh",
         "collection_QbfMz3"
       ],
